@@ -41,7 +41,7 @@
 
 ### 下载或clone代码包
 ```javascript
-git clone https://github.com/TencentCloudBase/tcb-demo-message.git
+git clone https://github.com/TencentCloudBase/tcb-demo-user.git
 ```
 
 ### 填入小程序 appid
