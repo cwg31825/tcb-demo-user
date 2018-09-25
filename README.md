@@ -62,3 +62,5 @@
 ### 安装依赖及上传云函数
 使用 `npm i --production` 给 `loginRegister` 和 `verifyIdentity` 安装依赖，完成后在开发 `IDE` 里将两个云函数上传。
 
+## 体验
+点击小程序开发IDE中的“预览”，用微信扫一扫即可体验
