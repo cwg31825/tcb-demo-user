@@ -39,6 +39,11 @@
 ```
 ## 预览 DEMO
 
+### 下载或clone代码包
+```javascript
+git clone https://github.com/TencentCloudBase/tcb-demo-message.git
+```
+
 ### 填入小程序 appid
 
 `project.config.json`
